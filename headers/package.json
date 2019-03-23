@@ -1,0 +1,17 @@
+{
+  "name": "ts2c-target-esp-idf",
+  "version": "0.0.1",
+  "description": "ESP-IDF target for TS2C transpiler",
+  "main": "",
+  "types": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andrei-markeev/ts2c-target-esp-idf.git"
+  },  
+  "keywords": [],
+  "author": "Andrei Markeev",
+  "license": "ISC"
+}
