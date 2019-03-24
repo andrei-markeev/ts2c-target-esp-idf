@@ -37,7 +37,7 @@ That will create corresponding .c file, which you can then compile and flash usi
 
 Example above will be transpiled to the following .c file:
 
-````c
+```c
 #include <stdio.h>
 #include <esp_system.h>
 #include <freertos/task.h>
